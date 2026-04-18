@@ -1,11 +1,11 @@
-# Deciphering the rhizosphere microbial and fauna diversity and ecological interactions of Rubus niveus: the top invasive threat in Galapagos
+# Deciphering the rhizosphere microbial and fauna diversity and ecological interactions of *Rubus niveus*: the top invasive threat in Galápagos
 
 **Status:** Manuscript in preparation
 
-## Target genes
-- bacterial 16S rRNA gene
-- fungal ITS2 region
-- anilmal CO1 gene
+## Target genes:
+- Bacterial 16S rRNA gene
+- Fungal ITS2 region
+- Animal COI gene
 
 ## Bacterial 16S rRNA dataset
 
@@ -81,7 +81,7 @@ qiime vsearch cluster-features-de-novo \
   --o-clustered-sequences rep-seqs-ITS-dn-97.qza
 ```
 
-### Step 3. Taxonomic assignment with the SILVA v138-99 classifier
+### Step 3. Taxonomic assignment with the UNITE INSD v10.0 classifier
 
 ```bash
 qiime feature-classifier classify-sklearn \
@@ -121,7 +121,7 @@ qiime vsearch cluster-features-de-novo \
   --o-clustered-sequences rep-seqs-COI-dn-97.qza
 ```
 
-### Step 3. Taxonomic assignment with the UNITE classifier
+### Step 3. Taxonomic assignment with the BOLD classifier
 
 ```bash
 qiime feature-classifier classify-sklearn \
