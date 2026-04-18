@@ -4,7 +4,7 @@ This repository provides reusable workflows for metabarcoding data analysis acro
 
 ## General qiime2 workflow
 
-The general workflow available in [metabarcoding-workflow/README.md](metabarcoding-workflow/README.md) refers to the core QIIME2-based amplicon processing pipeline, including denoising, feature clustering, and taxonomic assignment.
+The general workflow available in [qiime2-workflow/README.md](metabarcoding-workflow/README.md) refers to the core QIIME2-based amplicon processing pipeline, including denoising, feature clustering, and taxonomic assignment.
 
 ## Study-specific implementations
 
