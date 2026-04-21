@@ -6,7 +6,7 @@
 This repository contains the metabarcoding workflow used to investigate rosy discolouration in St. Cyprian Chapel (South Tyrol, Italy), with a focus on the role of salt efflorescence in shaping microbial communities and pigment production.
 
 ## Authors
-Marzanni A, Landolfi M, Tiziani R, Bombardelli S, Celi D, Pittertschatscher M, Buttarelli A, Bruni S, Pecchioni E, Perito B, Cnudde V, Cappitelli F, Mimmo T, Villa F and Luigimaria Borruso
+Marzanni A, Landolfi M, Tiziani R, Bombardelli S, Celi D, Pittertschatscher M, Buttarelli A, Bruni S, Pecchioni E, Perito B, Cnudde V, Cappitelli F, Mimmo T, Villa F and Borruso L
 
 ## Target genes
 - bacterial 16S rRNA gene
