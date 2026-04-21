@@ -2,10 +2,16 @@
 
 **Status:** Manuscript in preparation
 
-## Target genes:
-- Bacterial 16S rRNA gene
-- Fungal ITS2 region
-- Animal COI gene
+## Overview
+This repository contains the metabarcoding workflow used to investigate the rhizosphere microbial and fauna diversity associated with the invasive plant *Rubus niveus* across contrasting habitats on Santa Cruz Island (Galápagos, Ecuador). The study focuses on how differences in soil chemistry, climate, vegetation, and edaphic characteristics shape bacterial, fungal, and animal communities, as well as their ecological interactions.
+
+## Authors
+Riviere S, Fracasso I, Tiziani R, Trevisan F, Bouaicha O, Keiblinger K, Gerzabek MH, Chaves JA, Zehetner F, Jäger H, Mimmo T, Borruso L
+
+## Target genes
+- bacterial 16S rRNA gene
+- fungal ITS2 region
+- animal COI gene
 
 ## Bacterial 16S rRNA dataset
 
