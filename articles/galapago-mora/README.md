@@ -1,4 +1,4 @@
-# Deciphering the rhizosphere microbial and fauna diversity and ecological interactions of *Rubus niveus*: the top invasive threat in Galápagos
+# Deciphering the rhizosphere microbial and fauna diversity and ecological interactions of *Rubus niveus*: the top invasive plant threat in Galápagos
 
 **Status:** Manuscript in preparation
 
