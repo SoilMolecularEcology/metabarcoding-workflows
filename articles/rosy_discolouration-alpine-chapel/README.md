@@ -2,11 +2,12 @@
 
 ## Citation
 
-Marzanni A., Landolfi M., Tiziani R. et al. Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence. *Microbial Ecology* (2026). https://doi.org/10.1007/s00248-026-02795-2
+> **Alessia Marzanni, Maria Landolfi, Raphael Tiziani, Sabrina Bombardelli, Domenico Celi, Martin Pittertschatscher, Alessia Buttarelli, Silvia Bruni, Elena Pecchioni, Brunella Perito, Veerle Cnudde, Francesca Cappitelli, Tanja Mimmo, Federica Villa & Luigimaria Borruso**  
+> *Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence.*  
+> **Microbial Ecology** (2026).  
+> DOI: [10.1007/s00248-026-02795-2](https://doi.org/10.1007/s00248-026-02795-2)
 
-## Overview
-
-This repository contains the metabarcoding workflow used to investigate rosy discolouration in St. Cyprian Chapel (South Tyrol, Italy), with a focus on the role of salt efflorescence in shaping microbial communities and pigment production.
+**Status:** Published
 
 ## Target genes
 - bacterial 16S rRNA gene
