@@ -2,8 +2,7 @@
 
 ## Citation
 
-Marzanni A, Landolfi M, Tiziani R, Bombardelli S, Celi D, Pittertschatscher M, Buttarelli A, Bruni S, Pecchioni E, Perito B, Cnudde V, Cappitelli F, Mimmo T, Villa F & Borruso L (2026). *Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence.*  
-**Microbial Ecology**. DOI: [10.1007/s00248-026-02795-2](https://doi.org/10.1007/s00248-026-02795-2).
+Marzanni A, Landolfi M, Tiziani R, Bombardelli S, Celi D, Pittertschatscher M, Buttarelli A, Bruni S, Pecchioni E, Perito B, Cnudde V, Cappitelli F, Mimmo T, Villa F & Borruso L (2026). *Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence. **Microbial Ecology**, DOI: [10.1007/s00248-026-02795-2](https://doi.org/10.1007/s00248-026-02795-2).
 
 
 ## Target genes
