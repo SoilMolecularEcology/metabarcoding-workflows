@@ -1,9 +1,5 @@
 # Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence
 
-**Status:** Published in *Microbial Ecology* (2026)
-
-**DOI:** https://doi.org/10.1007/s00248-026-02795-2
-
 ## Citation
 
 Marzanni A., Landolfi M., Tiziani R. et al. Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence. *Microbial Ecology* (2026). https://doi.org/10.1007/s00248-026-02795-2
