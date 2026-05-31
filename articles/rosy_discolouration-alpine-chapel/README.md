@@ -2,7 +2,7 @@
 
 ## Citation
 
-> **Alessia Marzanni, Maria Landolfi, Raphael Tiziani, Sabrina Bombardelli, Domenico Celi, Martin Pittertschatscher, Alessia Buttarelli, Silvia Bruni, Elena Pecchioni, Brunella Perito, Veerle Cnudde, Francesca Cappitelli, Tanja Mimmo, Federica Villa & Luigimaria Borruso**  
+> **Marzanni A, Landolfi M, Tiziani R, Bombardelli S, Celi D, Pittertschatscher, Buttarelli MA, Bruni S, Elena Pecchioni E, Perito B, Cnudde V, Cappitelli F, Mimmo T, Villa F & Borruso L**  
 > *Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence.*  
 > **Microbial Ecology** (2026).  
 > DOI: [10.1007/s00248-026-02795-2](https://doi.org/10.1007/s00248-026-02795-2)
