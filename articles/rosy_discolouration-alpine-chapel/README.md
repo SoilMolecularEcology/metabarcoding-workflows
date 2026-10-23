@@ -2,8 +2,11 @@
 
 ## Citation
 
-Marzanni A, Landolfi M, Tiziani R, Bombardelli S, Celi D, Pittertschatscher M, Buttarelli A, Bruni S, Pecchioni E, Perito B, Cnudde V, Cappitelli F, Mimmo T, Villa F & Borruso L (2026). *Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence. **Microbial Ecology**, DOI: [10.1007/s00248-026-02795-2](https://doi.org/10.1007/s00248-026-02795-2).
+Marzanni A, Landolfi M, Tiziani R, Bombardelli S, Celi D, Pittertschatscher M, Buttarelli A, Bruni S, Pecchioni E, Perito B, Cnudde V, Cappitelli F, Mimmo T, Villa F & Borruso L (2026). *Rosy Discolouration in an Alpine Chapel: Beyond Salt Dependence*. **Microbial Ecology**, 89, article 151. https://doi.org/10.1007/s00248-026-02795-2
 
+## Study overview
+
+This study investigates rosy discolouration on the north and south walls of St. Cyprian Chapel in South Tyrol, Italy, at approximately 1000 m altitude. The north-wall biofilm is associated with salt efflorescence, while the south-wall biofilm occurs without visible salt efflorescence. The study combines metabarcoding with chemical, mineralogical, pigment, and biofilm analyses to examine how wall conditions relate to microbial community composition and pigment production.
 
 ## Target genes
 - bacterial 16S rRNA gene
