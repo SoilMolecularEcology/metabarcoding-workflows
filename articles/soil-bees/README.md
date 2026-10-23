@@ -8,7 +8,6 @@ Ferrari A, Tiziani R, Borsotti A, Ronchetti F, Fracasso I, Bouaicha O, Mimmo T, 
 
 This study investigates whether nesting activity by the ground-nesting bee *Lasioglossum malachurum* is associated with localised changes in soil chemical properties and microbial communities.
 
-Soil samples were collected from nest entrances and paired non-nested control areas across four nesting sites in central Italy.
 
 ## Target markers
 
