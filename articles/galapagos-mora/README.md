@@ -1,12 +1,12 @@
-# Deciphering the rhizosphere microbial and fauna diversity and ecological interactions of *Rubus niveus*: the top invasive plant threat in Galápagos
+# Deciphering the Rhizosphere Microbial and Faunal Diversity and Ecological Interactions of *Rubus niveus*: The Top Invasive Plant Threat in Galápagos
 
-**Status:** Manuscript in preparation
+## Citation
 
-## Overview
-This repository contains the metabarcoding workflow used to investigate the rhizosphere microbial and fauna diversity associated with the invasive plant *Rubus niveus* across contrasting habitats on Santa Cruz Island (Galápagos, Ecuador). The study focuses on how differences in soil chemistry, climate, vegetation, and edaphic characteristics shape bacterial, fungal, and animal communities, as well as their ecological interactions.
+Riviere S, Fracasso I, Tiziani R, Trevisan F, Bouaicha O, Keiblinger K, Gerzabek MH, Chaves JA, Zehetner F, Jäger H, Mimmo T & Borruso L (2026). *Deciphering the rhizosphere microbial and faunal diversity and ecological interactions of Rubus niveus: The top invasive plant threat in Galápagos*. **Geoderma**, 473, 118005. https://doi.org/10.1016/j.geoderma.2026.118005
 
-## Authors
-Riviere S, Fracasso I, Tiziani R, Trevisan F, Bouaicha O, Keiblinger K, Gerzabek MH, Chaves JA, Zehetner F, Jäger H, Mimmo T, Borruso L
+## Study overview
+
+This study investigates the rhizosphere communities associated with the invasive plant *Rubus niveus* across three sites on Santa Cruz Island, Galápagos, Ecuador. It combines soil chemistry and environmental DNA metabarcoding to examine bacterial, fungal, and soil-faunal communities, including differences among sites and taxa shared across habitats.
 
 ## Target genes
 - bacterial 16S rRNA gene
