@@ -6,7 +6,7 @@
 This repository contains the data and analytical workflow used to investigate the effects of legume- and grass-dominated cover crops on soil pedofauna diversity and soil chemical and physical characteristics in an apple orchard in Northern Italy. The study focuses on how different cover crop types influence the composition and richness of soil animal communities, assessed through eDNA metabarcoding, and whether these biological patterns are associated with changes in soil chemistry and structure.
 
 ## Authors
-Ferrari A, Tiziani R, Fracasso I, Bouaicha O, Foley L, Taskin E, Mimmo T and Borruso L
+Ferrari A, Tiziani R, Fracasso I, Bouaicha O, Foley L, Taskin E, Mimmo T & Borruso L
 
 ## Target genes
 - animal COI gene
