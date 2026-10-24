@@ -10,7 +10,7 @@ This study examines whether buffer zones limit agrochemical spread and changes i
 
 ## Target gene
 
-- COI
+- animal COI gene
 
 
 ## COI dataset
