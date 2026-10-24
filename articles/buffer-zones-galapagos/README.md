@@ -4,9 +4,7 @@ Riviere S, Bouaicha O, Fracasso I, Trevisan F, Keiblinger K, Gerzabek MH, Jäger
 
 ## Study overview
 
-This study examines whether buffer zones limit agrochemical spread and changes in soil-faunal communities between agricultural land and protected forest on Isabela Island, Galápagos.
-
-Soil samples were collected from an agricultural area, the adjacent buffer zone, and a national park forest. Agrochemical concentrations declined toward the forest. The three land-use areas hosted distinct faunal communities: alpha diversity was highest in the agricultural area, while the forest contained more taxa indicative of good soil quality. Co-occurrence networks also differed among areas.
+This study examines whether buffer zones limit agrochemical spread and changes in soil-faunal communities between agricultural land and protected forest on Isabela Island, Galápagos. Soil samples were collected from an agricultural area, the adjacent buffer zone, and a national park forest. Agrochemical concentrations declined toward the forest. The three land-use areas hosted distinct faunal communities: alpha diversity was highest in the agricultural area, while the forest contained more taxa indicative of good soil quality. Co-occurrence networks also differed among areas.
 
 ## Target gene
 
